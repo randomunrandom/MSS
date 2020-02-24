@@ -1,11 +1,49 @@
-<mxfile host="www.draw.io" modified="2020-02-24T13:32:53.241Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="pWHahctwoPc20KA0dJHT" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-24T14:21:27.124Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="Iv1AvXcaWg5WjNlJPAhk" version="12.7.4" type="github">
   <diagram id="y7Y5LSELg2NZ22rHmxrC" name="Page-1">
-    <mxGraphModel dx="824" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="471" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RdjZfKGLbrOmODSjrDLa-1" value="use cases &lt;b&gt;Проектирование системы интернет-заказов магазина электроники&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=470;height=30;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="700" height="200" as="geometry" />
+          <mxGeometry x="40" y="40" width="1110" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-5" value="Покупатель" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-8" value="Сделать заказ" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-6" value="Продавец" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-7" value="Админимтратор" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-21" value="name" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="130" y="230" as="sourcePoint" />
+            <mxPoint x="290" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-22" value="1" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="RdjZfKGLbrOmODSjrDLa-21">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-23" value="0..n" style="resizable=0;html=1;align=left;verticalAlign=top;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-24" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;align=right;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RdjZfKGLbrOmODSjrDLa-5" target="RdjZfKGLbrOmODSjrDLa-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="190" as="sourcePoint" />
+            <mxPoint x="190" y="154" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-25" value="1" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="RdjZfKGLbrOmODSjrDLa-24">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-26" value="*" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="RdjZfKGLbrOmODSjrDLa-24">
+          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
