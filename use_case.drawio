@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-25T14:38:28.110Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="XoOuQYmwNNVyAZBWDaQJ" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-25T14:43:44.500Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="nRGtoljP8EdPUeLq_OTH" version="12.7.4" type="github">
   <diagram id="y7Y5LSELg2NZ22rHmxrC" name="Page-1">
     <mxGraphModel dx="824" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -321,7 +321,7 @@
             <mxPoint x="10.14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-99" value="&lt;div&gt;Поиск товаров по харктеристике&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-99" value="&lt;div&gt;Поиск товаров по харктеристикам&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1159" y="320" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RdjZfKGLbrOmODSjrDLa-156" value="Администратор" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
