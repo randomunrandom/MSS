@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-25T11:29:34.041Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="gALwzA9INKJEvMjfo6Mo" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-25T13:33:43.436Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="U8J93Ao0hPidZyUGkbm2" version="12.7.4" type="github">
   <diagram id="y7Y5LSELg2NZ22rHmxrC" name="Page-1">
     <mxGraphModel dx="824" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,10 +19,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-223" value="&quot;include&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=bottom;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-8" target="RdjZfKGLbrOmODSjrDLa-222" edge="1">
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-223" value="&quot;include&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=bottom;dashed=1;endArrow=open;endFill=0;" parent="1" source="RdjZfKGLbrOmODSjrDLa-8" target="RdjZfKGLbrOmODSjrDLa-222" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-226" value="&quot;include&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;align=center;verticalAlign=bottom;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-8" target="RdjZfKGLbrOmODSjrDLa-225" edge="1">
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-226" value="&quot;include&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;align=center;verticalAlign=bottom;dashed=1;endArrow=open;endFill=0;" parent="1" source="RdjZfKGLbrOmODSjrDLa-8" target="RdjZfKGLbrOmODSjrDLa-225" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RdjZfKGLbrOmODSjrDLa-8" value="Сделать заказ" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
