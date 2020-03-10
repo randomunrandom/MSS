@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-10T10:43:06.465Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="Lej_PtdDmLj1xQ2oBchj" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-10T10:53:38.701Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="Fw8DK9fwvIylqp9VsLnM" version="12.8.1" type="github">
   <diagram id="7VpvIhueV3ilVMoM20PL" name="Page-1">
     <mxGraphModel dx="824" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
         <mxCell id="AqnYTcgwSNKYMv5zJtwy-26" value="+ orders: List[Order]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AqnYTcgwSNKYMv5zJtwy-19" vertex="1">
           <mxGeometry y="90" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="AqnYTcgwSNKYMv5zJtwy-22" value="+ info: List[str]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AqnYTcgwSNKYMv5zJtwy-19" vertex="1">
+        <mxCell id="AqnYTcgwSNKYMv5zJtwy-22" value="+ info: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AqnYTcgwSNKYMv5zJtwy-19" vertex="1">
           <mxGeometry y="116" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AqnYTcgwSNKYMv5zJtwy-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="AqnYTcgwSNKYMv5zJtwy-19" vertex="1">
