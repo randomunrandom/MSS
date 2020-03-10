@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-10T09:28:42.387Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="A_Sz12h9GhI78lWxktyd" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-10T09:28:53.566Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="Qkxp0CPEL2kf7C86gDwB" version="12.8.1" type="github">
   <diagram id="7VpvIhueV3ilVMoM20PL" name="Page-1">
     <mxGraphModel dx="824" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_wDIAisPJdzkH9Y9Z4WT-81" value="&lt;&lt;dataType&gt;&gt;&#xa;Characteristic" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=37;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="360" width="180" height="123" as="geometry" />
+          <mxGeometry x="80" y="360" width="180" height="97" as="geometry" />
         </mxCell>
         <mxCell id="_wDIAisPJdzkH9Y9Z4WT-82" value="+ description: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_wDIAisPJdzkH9Y9Z4WT-81" vertex="1">
           <mxGeometry y="37" width="180" height="26" as="geometry" />
@@ -156,9 +156,6 @@
         </mxCell>
         <mxCell id="_wDIAisPJdzkH9Y9Z4WT-83" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="_wDIAisPJdzkH9Y9Z4WT-81" vertex="1">
           <mxGeometry y="89" width="180" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="_wDIAisPJdzkH9Y9Z4WT-84" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_wDIAisPJdzkH9Y9Z4WT-81" vertex="1">
-          <mxGeometry y="97" width="180" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
