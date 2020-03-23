@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T18:12:20.720Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="T05UocQYdlA1mC3NODKS" version="12.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T18:14:14.511Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="Wlw6wabAZcc9ShrdBgcs" version="12.9.0" type="github">
   <diagram id="5Qrj_cHMlwDHXTjBdwBp" name="Page-1">
-    <mxGraphModel dx="1993" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2138" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-117" value="[корзина не пуста]" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=#120000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-37" target="1Fe0VKBd-OM9YCjam9Hl-81">
+          <mxGeometry x="-0.9549" y="-40" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-37" value="Успешно авторизирован" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="-560" y="441" width="120" height="42" as="geometry" />
         </mxCell>
@@ -86,12 +91,21 @@
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-36" value="Ввести пароль" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
           <mxGeometry x="821" y="438" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-60" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-54" target="1Fe0VKBd-OM9YCjam9Hl-57">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-60" value="[корзина пуста]" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-54" target="1Fe0VKBd-OM9YCjam9Hl-57">
+          <mxGeometry x="-0.7615" y="-30" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1301" y="460" />
-              <mxPoint x="1301" y="530" />
+              <mxPoint x="1171" y="530" />
             </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-118" value="[корзина не пуста]" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#120000;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-54" target="1Fe0VKBd-OM9YCjam9Hl-81">
+          <mxGeometry x="-0.9703" y="49" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1231" y="870" />
+              <mxPoint x="351" y="870" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-54" value="Успешно зарегистрирован" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
