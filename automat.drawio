@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T17:24:18.410Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="rY_XTIcCQJWvvJM-RwZN" version="12.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T17:30:57.318Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="jdqDwMiltyP0h1wUq-UY" version="12.9.0" type="github">
   <diagram id="5Qrj_cHMlwDHXTjBdwBp" name="Page-1">
     <mxGraphModel dx="824" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,6 +16,9 @@
           <mxGeometry x="0.6667" y="-30" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-58" value="Перейти в каталог" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-15" target="1Fe0VKBd-OM9YCjam9Hl-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-15" value="&lt;div&gt;Главная страница&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
@@ -46,7 +49,15 @@
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-31" value="Ввести пароль" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="680" y="119" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-37" value="Ввести пароль" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-62" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-37" target="1Fe0VKBd-OM9YCjam9Hl-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="140" />
+              <mxPoint x="1340" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-37" value="Успешно авторизирован" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="960" y="119" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-21" value="Ввести логин" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
@@ -78,7 +89,15 @@
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-36" value="Ввести пароль" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="800" y="198" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-54" value="Ввести пароль" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-60" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-54" target="1Fe0VKBd-OM9YCjam9Hl-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="220" />
+              <mxPoint x="1280" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-54" value="Успешно зарегистрирован" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1120" y="199" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-39" value="Ввод пароля[Пароль не верен]" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-31" target="1Fe0VKBd-OM9YCjam9Hl-40">
@@ -136,10 +155,25 @@
             <mxPoint x="830" y="300" as="sourcePoint" />
             <mxPoint x="580" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="830" y="290" />
-              <mxPoint x="890" y="290" />
+              <mxPoint x="830" y="280" />
+              <mxPoint x="890" y="280" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-66" value="Поиск по характеристикам" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-57" target="1Fe0VKBd-OM9YCjam9Hl-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-69" value="Поиск по категориям" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-57" target="1Fe0VKBd-OM9YCjam9Hl-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-57" value="Страница каталога" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-63" value="Страница категорий" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-65" value="Страница поиска" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
