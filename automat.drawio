@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T17:38:17.578Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="NpswKLk9Dm2bV8U8qajB" version="12.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T17:40:25.892Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="evLTZQJZic2sbBNbYVq6" version="12.9.0" type="github">
   <diagram id="5Qrj_cHMlwDHXTjBdwBp" name="Page-1">
-    <mxGraphModel dx="969" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="392" dy="220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-1" value="П" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="181" y="440" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="1Fe0VKBd-OM9YCjam9Hl-1" parent="1" target="1Fe0VKBd-OM9YCjam9Hl-15">
@@ -190,8 +190,23 @@
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-65" value="Страница поиска" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="141" y="600" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-78" value="Переход в корзину" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-70" target="1Fe0VKBd-OM9YCjam9Hl-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-79" value="Добавление в корзину" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#000000;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-70" target="1Fe0VKBd-OM9YCjam9Hl-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="730.1666666666667" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="730" />
+              <mxPoint x="460" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-70" value="Просмотр товаров" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="261" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-77" value="Просмотр выбраных товаров" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="261" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-74" value="[товары не найдены]" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#000000;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-65" target="1Fe0VKBd-OM9YCjam9Hl-65">
           <mxGeometry relative="1" as="geometry">
@@ -202,6 +217,16 @@
               <mxPoint x="61" y="630" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-80" value="Удаление из корзины" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-77" target="1Fe0VKBd-OM9YCjam9Hl-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="391" y="760" as="targetPoint" />
+            <mxPoint x="381" y="790" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="470" y="810" />
+              <mxPoint x="470" y="830" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
