@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T18:14:27.382Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="mZFdmzJ8xZWVQMQdqpcm" version="12.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T18:16:24.042Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="VRk3g7iRCDpP9gPy4vgj" version="12.9.0" type="github">
   <diagram id="5Qrj_cHMlwDHXTjBdwBp" name="Page-1">
     <mxGraphModel dx="2138" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -139,8 +139,8 @@
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-45" target="1Fe0VKBd-OM9YCjam9Hl-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-45" value="Отправить сообщение о возможном взломе на почту" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="200" width="200" height="42" as="geometry" />
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-45" value="&lt;div&gt;Отправить сообщение о возможном взломе на почту&lt;/div&gt;и ссылку с востановлением пароля" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="200" width="230" height="42" as="geometry" />
         </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-46" value="Ввод пароля[Пароль не верен]" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-44" target="1Fe0VKBd-OM9YCjam9Hl-45">
           <mxGeometry relative="1" as="geometry">
