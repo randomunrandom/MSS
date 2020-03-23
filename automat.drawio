@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T17:58:43.359Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="7wX0-VnMXrHDEqJOe2US" version="12.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T18:00:59.927Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="Z4oGLaNxVdsV2eJjAQVY" version="12.9.0" type="github">
   <diagram id="5Qrj_cHMlwDHXTjBdwBp" name="Page-1">
     <mxGraphModel dx="1856" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-81" value="Ввод информации для доставки" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="261" y="880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-102" value="выьрано [оплата онлайн]" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-99" target="1Fe0VKBd-OM9YCjam9Hl-101">
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-102" value="выбрано [оплата онлайн]" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-99" target="1Fe0VKBd-OM9YCjam9Hl-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-104" value="&lt;div align=&quot;left&quot;&gt;выбрано [оплата картой при получении]&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-99" target="1Fe0VKBd-OM9YCjam9Hl-103">
@@ -247,6 +247,11 @@
         </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-99" value="Выбор способа оплаты" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="261" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Fe0VKBd-OM9YCjam9Hl-103" target="1Fe0VKBd-OM9YCjam9Hl-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="321" y="1160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-103" value="заказ оформлен" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="261" y="1080" width="120" height="40" as="geometry" />
@@ -304,6 +309,9 @@
         </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-90" value="Авторизация" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="-160" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Fe0VKBd-OM9YCjam9Hl-116" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="301" y="1160" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
