@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-03-24T07:06:46.707Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="T68bzJy5CDXdbPZCHYXF" version="12.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-24T07:06:53.255Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="xUVGBUxTP-MoIC9_OnMu" version="12.9.0" type="github">
   <diagram id="5Qrj_cHMlwDHXTjBdwBp" name="Page-1">
     <mxGraphModel dx="1993" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nJWRNMLcpvSVmBtXkhhj-1" value="state machine &lt;b&gt;Проектирование системы интернет-заказов магазина электроники&lt;/b&gt; " style="shape=umlFrame;whiteSpace=wrap;html=1;width=490;height=30;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="80" width="2240" height="1160" as="geometry" />
+        </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-1" value="П" style="ellipse;html=1;shape=startState;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="301" y="360" width="40" height="40" as="geometry" />
         </mxCell>
@@ -336,9 +339,6 @@
         </mxCell>
         <mxCell id="1Fe0VKBd-OM9YCjam9Hl-116" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="301" y="1160" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nJWRNMLcpvSVmBtXkhhj-1" value="state machine &lt;b&gt;Проектирование системы интернет-заказов магазина электроники&lt;/b&gt; " style="shape=umlFrame;whiteSpace=wrap;html=1;width=490;height=30;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="80" width="2240" height="1160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
