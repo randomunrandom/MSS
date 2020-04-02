@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-02T23:23:44.157Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="XR--XRKltn7Ehw4yhykN" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-02T23:25:29.810Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="t6PBh4X3dTJDGeI2m68W" version="12.9.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="539" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
           <mxGeometry x="259.5" y="600" width="120.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Сервер" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="440" y="40" width="200" height="2470" as="geometry" />
+          <mxGeometry x="440" y="40" width="240" height="2470" as="geometry" />
         </mxCell>
         <mxCell id="eBvQgobW3I-P15cPwnFs-60" value="получить список всех вопросов" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="3">
           <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
@@ -96,6 +96,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="820" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eBvQgobW3I-P15cPwnFs-79" value="[ решено вернуть&lt;br&gt;деньги ща товар ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3">
+          <mxGeometry x="100" y="790" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBvQgobW3I-P15cPwnFs-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBvQgobW3I-P15cPwnFs-58" target="eBvQgobW3I-P15cPwnFs-60">
           <mxGeometry relative="1" as="geometry" />
