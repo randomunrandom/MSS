@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-02T23:16:47.134Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="nCs-0OuDDJJrvxtieHqP" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-02T23:20:16.518Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="wEpFcAoukUlUSAUkxEe6" version="12.9.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="652" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -51,14 +51,35 @@
         <mxCell id="eBvQgobW3I-P15cPwnFs-58" value="получить список всех вопросов" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="2">
           <mxGeometry x="280" y="360" width="79.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eBvQgobW3I-P15cPwnFs-62" value="получить список всех вопросов" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="2">
+        <mxCell id="eBvQgobW3I-P15cPwnFs-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="eBvQgobW3I-P15cPwnFs-62" target="eBvQgobW3I-P15cPwnFs-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBvQgobW3I-P15cPwnFs-62" value="выбрать запрос" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="2">
           <mxGeometry x="259.5" y="440" width="120.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eBvQgobW3I-P15cPwnFs-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="eBvQgobW3I-P15cPwnFs-64" target="eBvQgobW3I-P15cPwnFs-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBvQgobW3I-P15cPwnFs-64" value="изучить запрос" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="2">
+          <mxGeometry x="259.5" y="520" width="120.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eBvQgobW3I-P15cPwnFs-68" value="отправить решение на сервер" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="2">
+          <mxGeometry x="259.5" y="600" width="120.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Сервер" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="440" y="40" width="200" height="2470" as="geometry" />
         </mxCell>
         <mxCell id="eBvQgobW3I-P15cPwnFs-60" value="получить список всех вопросов" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="3">
           <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eBvQgobW3I-P15cPwnFs-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3" source="eBvQgobW3I-P15cPwnFs-70" target="eBvQgobW3I-P15cPwnFs-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBvQgobW3I-P15cPwnFs-70" value="сохранить решение" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="3">
+          <mxGeometry x="40" y="600" width="120.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eBvQgobW3I-P15cPwnFs-72" value="отправить пользователю уведомление" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="3">
+          <mxGeometry x="39.5" y="680" width="120.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eBvQgobW3I-P15cPwnFs-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBvQgobW3I-P15cPwnFs-58" target="eBvQgobW3I-P15cPwnFs-60">
           <mxGeometry relative="1" as="geometry" />
@@ -70,6 +91,9 @@
               <mxPoint x="360" y="460" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eBvQgobW3I-P15cPwnFs-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBvQgobW3I-P15cPwnFs-68" target="eBvQgobW3I-P15cPwnFs-70">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
