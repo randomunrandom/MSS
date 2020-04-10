@@ -1,7 +1,9 @@
 clean:
-	rm -f use_cases_list.pdf
-	rm -f tz.pdf
+	rm -f out/use_cases_list.pdf
+	rm -f out/tz.pdf
+	rm -f out/activity_desc.pdf
 
-md2pdf: clean
-	markdown-pdf use_cases_list.md
-	markdown-pdf tz.md
+pdf: clean
+	markdown-pdf use_cases_list.md -o out/use_cases_list.pdf
+	markdown-pdf tz.md -o out/tz.pdf
+	markdown-pdf activity_desc.md -o out/activity_desc.pdf
