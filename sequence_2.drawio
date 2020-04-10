@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-10T18:26:23.398Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="xq-Uiw1zdlbF7w7zuCZu" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-10T18:36:02.422Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ZT26KPsTkLSwxTWMIiiB" version="12.9.10" type="github">
   <diagram id="oVIxdxJxopVWfWYeocZR" name="Page-1">
-    <mxGraphModel dx="824" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="687" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,9 +59,14 @@
         <mxCell id="8eUQbEYo9qWNAHGdR6pD-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="8eUQbEYo9qWNAHGdR6pD-21">
           <mxGeometry x="45" y="840" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8eUQbEYo9qWNAHGdR6pD-24" value="войти в систему" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="8eUQbEYo9qWNAHGdR6pD-30" target="8eUQbEYo9qWNAHGdR6pD-5">
+        <mxCell id="8eUQbEYo9qWNAHGdR6pD-24" value="войти в систему" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1.04;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8eUQbEYo9qWNAHGdR6pD-30" target="8eUQbEYo9qWNAHGdR6pD-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="205" y="210" as="sourcePoint" />
+            <mxPoint x="260" y="194" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="275" y="201" />
+              <mxPoint x="275" y="188" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8eUQbEYo9qWNAHGdR6pD-25" value="проверить правилность&lt;br&gt;логина/пароля" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="8eUQbEYo9qWNAHGdR6pD-5" target="8eUQbEYo9qWNAHGdR6pD-16">
@@ -277,6 +282,9 @@
             <mxPoint x="89.5" y="1018.74" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8eUQbEYo9qWNAHGdR6pD-82" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="825" y="933" width="17" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
