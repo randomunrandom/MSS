@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-10T19:03:44.684Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="o5Pp9GoI1XwGkDJX6IEy" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-10T19:07:25.113Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Gz57colWPqXD6QUFafRT" version="12.9.10" type="github">
   <diagram id="oVIxdxJxopVWfWYeocZR" name="Page-1">
     <mxGraphModel dx="969" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8eUQbEYo9qWNAHGdR6pD-34" value="результат запроса" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="1" source="8eUQbEYo9qWNAHGdR6pD-17" target="8eUQbEYo9qWNAHGdR6pD-4">
+        <mxCell id="8eUQbEYo9qWNAHGdR6pD-34" value="return результат запроса" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="1" source="8eUQbEYo9qWNAHGdR6pD-17" target="8eUQbEYo9qWNAHGdR6pD-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="289.6666666666665" y="390" as="sourcePoint" />
             <mxPoint x="724.5" y="390" as="targetPoint" />
@@ -166,7 +166,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8eUQbEYo9qWNAHGdR6pD-41" value="результат запроса" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="1" source="8eUQbEYo9qWNAHGdR6pD-19">
+        <mxCell id="8eUQbEYo9qWNAHGdR6pD-41" value="return результат запроса" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="1" source="8eUQbEYo9qWNAHGdR6pD-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="574.5" y="580" as="sourcePoint" />
             <mxPoint x="278.5" y="580" as="targetPoint" />
@@ -224,7 +224,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8eUQbEYo9qWNAHGdR6pD-71" value="результат&amp;nbsp; запроса" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="8eUQbEYo9qWNAHGdR6pD-71" value="return результат&amp;nbsp; запроса" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="854.5" y="740" as="sourcePoint" />
             <mxPoint x="278.5" y="740" as="targetPoint" />
@@ -270,7 +270,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8eUQbEYo9qWNAHGdR6pD-77" value="результат выполнения оепрации" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="8eUQbEYo9qWNAHGdR6pD-77" value="return результат выполнения оепрации" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="853.5" y="980" as="sourcePoint" />
             <mxPoint x="278.5" y="980" as="targetPoint" />
