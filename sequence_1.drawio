@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-10T19:08:21.304Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="HqBjWUFuQtWOwEdmdCmP" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-10T19:17:27.182Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="HTzuSsAH4ty-O6dFrcrn" version="12.9.10" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="824" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -291,13 +291,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-89" value="результат выполнения&lt;br&gt;запроса == True" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="1" target="cNQvv4U7qq9ZEQ0QpZhL-85">
+        <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-89" value="отображение результата" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="1" target="cNQvv4U7qq9ZEQ0QpZhL-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280.5" y="941" as="sourcePoint" />
             <mxPoint x="86" y="931" as="targetPoint" />
             <Array as="points">
               <mxPoint x="191" y="941" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-132" value="&lt;div style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;[результат выполнения&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;запроса == True]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cNQvv4U7qq9ZEQ0QpZhL-89">
+          <mxGeometry x="0.6412" y="9" relative="1" as="geometry">
+            <mxPoint x="55.5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-90" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
@@ -386,7 +391,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-124" value="результат выполнения&lt;br&gt;операции == True" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;entryX=0.95;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-2" target="cNQvv4U7qq9ZEQ0QpZhL-98">
+        <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-124" value="отображение результата" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;entryX=0.95;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-2" target="cNQvv4U7qq9ZEQ0QpZhL-98">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="96.99999999999989" y="1311.2" as="sourcePoint" />
             <mxPoint x="288.5" y="1311.2" as="targetPoint" />
@@ -408,6 +413,18 @@
         </mxCell>
         <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-130" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="265" y="1464" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-133" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;[ результат выполнения&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;операции == True ]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="1420" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-134" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;[ результат выполнения&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;операции == True ]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="780" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-135" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;[ результат выполнения&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;операции == True ]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="620" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-136" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;[ результат выполнения&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;операции == True ]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="460" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
