@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-10T19:17:27.182Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="HTzuSsAH4ty-O6dFrcrn" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-10T19:18:07.154Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="miMs2kvajWYrNDqXlJFm" version="12.9.10" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="824" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-20" value="результат проверки == True" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="1" target="7baba1c4bc27f4b0-9">
+        <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-20" value="выполнить вход в систему" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="1" target="7baba1c4bc27f4b0-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="278.5" y="300" as="sourcePoint" />
             <mxPoint x="86" y="302" as="targetPoint" />
@@ -425,6 +425,9 @@
         </mxCell>
         <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-136" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;[ результат выполнения&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;операции == True ]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="113" y="460" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNQvv4U7qq9ZEQ0QpZhL-137" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;[ результат проверки&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&amp;nbsp;== True ]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="300" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
