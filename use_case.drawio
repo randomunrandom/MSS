@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-11T10:35:05.878Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="_9OoBBh4vnnqBQU0-OBk" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-11T11:42:51.734Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="cLbuSCOe6pC3XOnS12pg" version="12.9.11" type="github">
   <diagram id="y7Y5LSELg2NZ22rHmxrC" name="Page-1">
     <mxGraphModel dx="782" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -294,6 +294,14 @@
         <mxCell id="RdjZfKGLbrOmODSjrDLa-99" value="&lt;div&gt;Поиск товаров по харктеристикам&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1060" y="280" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UhA2pjesektU87tzKuD0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RdjZfKGLbrOmODSjrDLa-156" target="RdjZfKGLbrOmODSjrDLa-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="1040" />
+              <mxPoint x="740" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RdjZfKGLbrOmODSjrDLa-156" value="Администратор" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="760" width="40" height="60" as="geometry" />
         </mxCell>
@@ -495,6 +503,14 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UhA2pjesektU87tzKuD0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UhA2pjesektU87tzKuD0-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhA2pjesektU87tzKuD0-3" value="связь типа ассоциация между администратором и покупателем потому что администратор имеет все возможности обычного пользователя" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
+          <mxGeometry x="790" y="810" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
