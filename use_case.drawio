@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-03T10:44:56.683Z" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="ZMoO2Km7VwCgg_ph-E_9" version="12.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-11T09:15:22.441Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="4mnEt9Ze7EFyxgPqx_KE" version="12.9.11" type="github">
   <diagram id="y7Y5LSELg2NZ22rHmxrC" name="Page-1">
-    <mxGraphModel dx="824" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="RdjZfKGLbrOmODSjrDLa-5" value="Покупатель" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="240" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-66" value="&quot;include&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=bottom;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-8" target="RdjZfKGLbrOmODSjrDLa-65" edge="1">
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-66" value="&quot;include&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=bottom;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-8" target="RdjZfKGLbrOmODSjrDLa-65" edge="1">
           <mxGeometry x="0.5294" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="270" />
@@ -185,7 +185,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-68" value="&quot;include&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=bottom;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-8" target="RdjZfKGLbrOmODSjrDLa-69" edge="1">
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-68" value="&quot;include&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=bottom;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-8" target="RdjZfKGLbrOmODSjrDLa-69" edge="1">
           <mxGeometry x="0.1111" relative="1" as="geometry">
             <mxPoint x="470" y="350" as="sourcePoint" />
             <Array as="points">
@@ -195,7 +195,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-74" value="&quot;extends&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-73" target="RdjZfKGLbrOmODSjrDLa-69" edge="1">
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-74" value="&quot;extends&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-73" target="RdjZfKGLbrOmODSjrDLa-69" edge="1">
           <mxGeometry x="0.3333" y="-30" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="270" />
@@ -236,7 +236,7 @@
         <mxCell id="RdjZfKGLbrOmODSjrDLa-79" value="Самовывоз" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="80" y="400" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-81" value="&quot;include&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=bottom;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-8" target="RdjZfKGLbrOmODSjrDLa-82" edge="1">
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-81" value="&quot;include&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=bottom;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-8" target="RdjZfKGLbrOmODSjrDLa-82" edge="1">
           <mxGeometry x="0.7576" relative="1" as="geometry">
             <mxPoint x="480" y="350" as="sourcePoint" />
             <Array as="points">
@@ -249,7 +249,7 @@
         <mxCell id="RdjZfKGLbrOmODSjrDLa-82" value="Выбрать способ оплаты" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="280" y="480" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-84" value="&quot;extends&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-85" target="RdjZfKGLbrOmODSjrDLa-82" edge="1">
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-84" value="&quot;extends&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-85" target="RdjZfKGLbrOmODSjrDLa-82" edge="1">
           <mxGeometry x="-0.3333" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
@@ -259,7 +259,7 @@
         <mxCell id="RdjZfKGLbrOmODSjrDLa-85" value="Оплата банковской картой при получении" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="80" y="480" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-86" value="&quot;extends&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-87" target="RdjZfKGLbrOmODSjrDLa-82" edge="1">
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-86" value="&quot;extends&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-87" target="RdjZfKGLbrOmODSjrDLa-82" edge="1">
           <mxGeometry x="-0.76" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="670" />
@@ -272,7 +272,7 @@
         <mxCell id="RdjZfKGLbrOmODSjrDLa-87" value="Оплата онлайн" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="80" y="640" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-90" value="&quot;include&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=bottom;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-8" target="RdjZfKGLbrOmODSjrDLa-91" edge="1">
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-90" value="&quot;include&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=bottom;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-8" target="RdjZfKGLbrOmODSjrDLa-91" edge="1">
           <mxGeometry x="0.76" relative="1" as="geometry">
             <mxPoint x="480" y="350" as="sourcePoint" />
             <Array as="points">
@@ -285,7 +285,7 @@
         <mxCell id="RdjZfKGLbrOmODSjrDLa-91" value="Использовать промокод" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="280" y="400" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-92" value="&quot;extends&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-93" target="RdjZfKGLbrOmODSjrDLa-82" edge="1">
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-92" value="&quot;extends&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="RdjZfKGLbrOmODSjrDLa-93" target="RdjZfKGLbrOmODSjrDLa-82" edge="1">
           <mxGeometry x="-0.6471" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="590" />
