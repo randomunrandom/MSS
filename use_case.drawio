@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-11T10:23:23.683Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="77davdGhFHQFfJwRgz5n" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-11T10:24:31.150Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="KdldbVTLSqqkCUV0aibt" version="12.9.11" type="github">
   <diagram id="y7Y5LSELg2NZ22rHmxrC" name="Page-1">
     <mxGraphModel dx="782" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -473,8 +473,8 @@
             <mxPoint x="10.14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-217" value="Подтвердить заказ товара со склада" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="490" y="920" width="110" height="60" as="geometry" />
+        <mxCell id="RdjZfKGLbrOmODSjrDLa-217" value="Рассмотреть заказ новых товаров на склад" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="490" y="920" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RdjZfKGLbrOmODSjrDLa-218" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;align=right;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="RdjZfKGLbrOmODSjrDLa-156" target="RdjZfKGLbrOmODSjrDLa-217" edge="1">
           <mxGeometry relative="1" as="geometry">
