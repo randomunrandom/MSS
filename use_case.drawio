@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-11T10:19:44.879Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ZUb_ddw_lvFyKAkR_aZs" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-11T10:23:23.683Z" agent="5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="77davdGhFHQFfJwRgz5n" version="12.9.11" type="github">
   <diagram id="y7Y5LSELg2NZ22rHmxrC" name="Page-1">
     <mxGraphModel dx="782" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -404,29 +404,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-182" value="Подтвердить заказ" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="490" y="920" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-183" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;align=right;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RdjZfKGLbrOmODSjrDLa-156" target="RdjZfKGLbrOmODSjrDLa-182" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="870" as="sourcePoint" />
-            <mxPoint x="570" y="1114" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="420" y="790" />
-              <mxPoint x="420" y="950" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-184" value="1" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" parent="RdjZfKGLbrOmODSjrDLa-183" connectable="0" vertex="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="100" y="160" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RdjZfKGLbrOmODSjrDLa-185" value="*" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" parent="RdjZfKGLbrOmODSjrDLa-183" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RdjZfKGLbrOmODSjrDLa-203" value="Создать категорию" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="80" y="1000" width="110" height="60" as="geometry" />
         </mxCell>
@@ -497,7 +474,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RdjZfKGLbrOmODSjrDLa-217" value="Подтвердить заказ товара со склада" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="490" y="1000" width="110" height="60" as="geometry" />
+          <mxGeometry x="490" y="920" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RdjZfKGLbrOmODSjrDLa-218" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;align=right;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="RdjZfKGLbrOmODSjrDLa-156" target="RdjZfKGLbrOmODSjrDLa-217" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -505,13 +482,13 @@
             <mxPoint x="570" y="1194" as="targetPoint" />
             <Array as="points">
               <mxPoint x="420" y="790" />
-              <mxPoint x="420" y="1030" />
+              <mxPoint x="420" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RdjZfKGLbrOmODSjrDLa-219" value="1" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" parent="RdjZfKGLbrOmODSjrDLa-218" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="100" y="240" as="offset" />
+            <mxPoint x="100" y="160" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RdjZfKGLbrOmODSjrDLa-220" value="*" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" parent="RdjZfKGLbrOmODSjrDLa-218" connectable="0" vertex="1">
